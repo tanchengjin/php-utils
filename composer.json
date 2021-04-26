@@ -1,0 +1,21 @@
+{
+  "name": "tanchengjin/utils",
+  "description": "php utils package",
+  "type": "library",
+  "require": {
+    "php": ">=5.6"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "tanchengjin",
+      "email": "18865477815@163.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "tanchengjin\\utils\\": "src.main.php"
+    }
+  },
+  "minimum-stability": "stable"
+}
